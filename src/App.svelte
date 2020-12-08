@@ -45,7 +45,8 @@
 		margin-top: -1rem;
 		width: 400px;
 		height: 400px;
-		background-image: url('/ProfilePic.png');
+		/* background-image: url('/ProfilePic.png'); */
+		background-color:rgb(111,138,32);
 		background-size: 400px;
 		align-self: center;
 		border-radius: 50%;
